@@ -29,6 +29,7 @@ it writes the headers' names and then writes the data or cells after, separated 
 
 Notice: I used exceptions to avoid errors.
 
+special thanks to Zaid Aljundi
  */
 
 
